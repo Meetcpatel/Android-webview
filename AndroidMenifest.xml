@@ -1,0 +1,9 @@
+// Add this line after your packeg name look like below
+packege="......">
+<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+<application
+..........
+...
+..
+..
+</application>
